@@ -27,11 +27,16 @@ li.nav-item{
   margin-top: -15px;
   text-align: center;
   display:flex;
+  position: relative;
 }
 
 .card{
   position: initial;
 }
+
+
+
+
 
 .accordion{
   padding: 35px;
@@ -95,13 +100,11 @@ body{
   margin-top: -6px;
 }
 
-ul{
-  padding-inline-start: 0px;
-}
+
 
 .header{
   text-align: center;
-
+  width:100%;
 
 }
 
@@ -135,6 +138,7 @@ li.logo{
 
 .in-line{
   text-align: center;
+
 }
 
 li.nav-item{
