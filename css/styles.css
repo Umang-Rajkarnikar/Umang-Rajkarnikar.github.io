@@ -6,7 +6,7 @@ body{
 
 .navbar{
   position: fixed;
-  width: 6500px;
+  width: 100%;
   color:white;
   height:80px;
   background-color: black;
