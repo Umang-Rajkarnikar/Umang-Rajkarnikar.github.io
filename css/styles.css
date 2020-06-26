@@ -1,0 +1,253 @@
+body{
+  background-color:#fff;
+  margin: 0;
+  padding: 0;
+}
+
+.home_nav{
+  text-align: left;
+  display:flex;
+}
+
+a.nav-link{
+  color:white;
+}
+
+li.nav-item{
+  margin-top: -15px;
+  text-align: center;
+}
+
+.card{
+  position: initial;
+}
+
+.card-header{
+  height:80px;
+}
+
+
+
+.accordion{
+  padding: 35px;
+}
+.navbar{
+  position: fixed;
+  width: 6500px;
+  color:white;
+  height:80px;
+  background-color: black;
+}
+
+h1{
+  letter-spacing: 2px;
+  margin-top: 280px;
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+
+}
+
+.nav{
+  position: sticky;
+}
+
+h2{
+  padding-top: 80px;
+  text-align: center;
+  letter-spacing: 6px;
+  font-family: 'Ibarra Real Nova', serif;
+  font-family: 'Libre Caslon Text', serif;
+}
+
+
+
+h2.mb-0{
+  margin-top:-65px;
+  letter-spacing: 0px;
+
+}
+
+body{
+  background-color: #E6E8E8;
+}
+
+.btn{
+  background-color: black;
+  margin-bottom: 33px;
+  width:50px;
+  height: 50px;
+  border-radius: 20%;
+  color: #cccccc;
+  font-size: 30px;
+}
+
+.container{
+  width: 280px;
+  height: 200px;
+  text-align: center;
+
+}
+
+.container img{
+  margin-top: 200px;
+  width:100%;
+  height:auto;
+}
+
+.CV{
+  margin-left: -8px;
+  margin-top: -6px;
+}
+
+ul{
+  padding-inline-start: 0px;
+}
+
+.header{
+  text-align: center;
+
+}
+
+p.textme{
+  font-size: 20px;
+}
+
+
+
+
+
+img.profile{
+    border-radius: 50%;
+}
+
+
+.introduction{
+
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 725px; /* You must set a specified height */
+
+}
+
+i {
+  color: black;
+}
+li.logo{
+  display: inline-block;
+  padding: 20px;
+}
+
+.in-line{
+  text-align: center;
+}
+
+li.nav-item{
+  display: inline-block;
+  padding: 20px;
+}
+
+li.courses{
+  display: list-item;
+  list-style-type: circle dark;
+  padding: 2px;
+  margin-left: 10%;
+  color:#666666;
+  font-family: 'Ibarra Real Nova', serif;
+  font-family: 'Libre Caslon Text', serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+
+.biography{
+  margin-left: 20%;
+  margin-right: 20%;
+  transition: width 2s;
+
+}
+
+.card{
+  margin-left: 20%;
+  margin-right: 20%;
+
+}
+
+button.btn-link{
+  margin-top: -135px;
+  color:#000;
+
+}
+
+footer{
+  text-align: center;
+  background-color:#000;
+  color: white;
+  height:80px;
+
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+.watchApp{
+  position:initial;
+}
+
+.cadDesign{
+  position:initial;
+}
+
+.prototype{
+  position:initial;
+}
+
+.database{
+  position:initial;
+}
+
+
+
+p.description{
+  font-family: 'Ibarra Real Nova', serif;
+  font-family: 'Libre Caslon Text', serif;
+  font-family: 'Roboto', sans-serif;
+  color:#666666;
+  margin-top: 40px;
+
+}
+
+button.send{
+  margin-left: 21%;
+  background-color: #E2E2E2;
+  font-family: 'Ibarra Real Nova', serif;
+  font-family: 'Libre Caslon Text', serif;
+  font-family: 'Roboto', sans-serif;
+  height:30px;
+  margin-bottom: 40px;
+}
+
+label{
+  display:block;
+  margin-left: 20%;
+  padding: 15px;
+  font-family: 'Ibarra Real Nova', serif;
+  font-family: 'Libre Caslon Text', serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+input{
+  background-color: #cccccc;
+  border-style: inset;
+  border-color: #E6E8E8;
+  width: 75%;
+}
+
+
+
+textarea{
+  border-style: inset;
+  background-color: #cccccc;
+  border-color: #E6E8E8;
+  width: 75%;
+  height: 150px;
+}
