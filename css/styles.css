@@ -121,7 +121,7 @@ img.profile{
 .introduction{
 
   background-color: #cccccc; /* Used if the image is unavailable */
-  height: 725px; /* You must set a specified height */
+  height: 800px; /* You must set a specified height */
 
 }
 
