@@ -7,14 +7,13 @@ body{
 .navbar{
   position: fixed;
   width: 100%;
+  height:auto;
   color:white;
-  height:80px;
   background-color: black;
 }
 
 .home_nav{
   text-align: left;
-  display:flex;
 }
 
 
@@ -24,10 +23,7 @@ a.nav-link{
 }
 
 li.nav-item{
-  margin-top: -15px;
   text-align: center;
-  display:flex;
-  position: relative;
 }
 
 .card{
