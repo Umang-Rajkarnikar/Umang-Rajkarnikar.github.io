@@ -9,7 +9,7 @@ body{
 .navbar{
   position: fixed;
   width: 100%;
-  height:auto;
+  height:80px;
   color:white;
   background-color: black;
 }
@@ -26,6 +26,7 @@ a.nav-link{
 
 li.nav-item{
   text-align: center;
+  margin-top:-14px;
 }
 
 .card{
@@ -33,11 +34,6 @@ li.nav-item{
   margin-left: 20%;
   margin-right: 20%;
 }
-
-
-
-
-
 
 .accordion{
   padding: 35px;
