@@ -84,7 +84,7 @@ body{
   width: 280px;
   height: 200px;
   text-align: center;
-
+  margin-left:42%;
 }
 
 .container img{
@@ -291,4 +291,8 @@ textarea{
     h1{
       font-size:50px;
     }
+  
+  .container{
+    margin-left:0%;
+  }
   }
