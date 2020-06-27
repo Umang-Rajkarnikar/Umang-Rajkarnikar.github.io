@@ -38,6 +38,7 @@ li.nav-item{
 
 
 
+
 .accordion{
   padding: 35px;
 }
@@ -125,7 +126,6 @@ img.profile{
 
   background-color: #cccccc; /* Used if the image is unavailable */
   height: 800px; /* You must set a specified height */
-  width:100%;
 
 }
 
@@ -282,4 +282,13 @@ textarea{
     .navbar{
       display: none;
     }
+  
+    .in-line{
+      margin-left: 30%;
+      margin-right:32%;
+      text-align: center;
+    }
+  
+  h1{
+    font-size:65px;
 }
