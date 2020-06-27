@@ -284,11 +284,12 @@ textarea{
     }
   
     .in-line{
-      margin-left: 30%;
-      margin-right:32%;
+      margin-left: 10%;
+      margin-right: 12%;
       text-align: center;
     }
   
-  h1{
-    font-size:65px;
-}
+    h1{
+      font-size:65px;
+    }
+  }
