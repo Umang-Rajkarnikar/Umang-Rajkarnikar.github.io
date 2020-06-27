@@ -254,8 +254,8 @@ textarea{
     }
 
     .biography{
-      margin-left: 0%;
-      margin-right: 0%;
+      margin-left: 3%;
+      margin-right: 3%;
     }
 
     label{
@@ -275,6 +275,10 @@ textarea{
     }
 
     button.send{
-      margin-left: 1%;
+      margin-left: 2%;
+    }
+
+    .navbar{
+      display: none;
     }
 }
