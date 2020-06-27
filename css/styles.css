@@ -1,9 +1,4 @@
-@media (max-width: 767px) {
-    .card {
-        margin-left: 0px;
-        margin-right: 0px;
-    }
-}
+
 
 body{
   background-color:#fff;
@@ -250,4 +245,11 @@ textarea{
   border-color: #E6E8E8;
   width: 75%;
   height: 150px;
+}
+
+@media only screen and (max-width: 768px) {
+    .card {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
 }
